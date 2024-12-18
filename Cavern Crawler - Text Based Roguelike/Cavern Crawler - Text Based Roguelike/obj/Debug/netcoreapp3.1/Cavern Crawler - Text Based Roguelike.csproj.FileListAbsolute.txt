@@ -1,0 +1,13 @@
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\bin\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.exe
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\bin\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.deps.json
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\bin\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.runtimeconfig.json
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\bin\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.runtimeconfig.dev.json
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\bin\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.dll
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\bin\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.pdb
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.csprojAssemblyReference.cache
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.AssemblyInfoInputs.cache
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.AssemblyInfo.cs
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.dll
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.pdb
+C:\Users\Timothy Wong\source\repos\Cavern Crawler - Text Based Roguelike\Cavern Crawler - Text Based Roguelike\obj\Debug\netcoreapp3.1\Cavern Crawler - Text Based Roguelike.genruntimeconfig.cache
