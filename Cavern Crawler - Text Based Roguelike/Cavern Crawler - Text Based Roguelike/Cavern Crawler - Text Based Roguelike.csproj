@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Cavern_Crawler___Text_Based_Roguelike</RootNamespace>
-  </PropertyGroup>
-
-</Project>
